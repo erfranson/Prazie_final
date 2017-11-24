@@ -1,0 +1,32 @@
+
+.nav-1{
+ background: #ffffff !important;
+  min-height: 90px;
+  background-image: none;
+  color:#339971;
+  margin-bottom: 25px;
+  opacity: 0.6;
+}
+.navbar-default .navbar-nav > li > a{
+  color:#000000;
+  font-size: 14px;
+  font-family: 'Lato', sans-serif;
+  margin-top: 20px;
+}
+.banner{
+  margin-top: 115px;
+}
+.bannerimg{
+  width: 100%;
+}
+.heading{
+  margin-bottom: 25px;
+}
+.imageRow{
+  margin-bottom: 25px;
+}
+.bannerText {
+  font-family: 'Lato', sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+}
