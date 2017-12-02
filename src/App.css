@@ -1,11 +1,10 @@
-
+/*Navigation*/
 .nav-1{
  background: #ffffff !important;
   min-height: 90px;
   background-image: none;
-  color:#339971;
   margin-bottom: 25px;
-  opacity: 0.6;
+  opacity: 0.9;
 }
 .navbar-default .navbar-nav > li > a{
   color:#000000;
@@ -13,7 +12,16 @@
   font-family: 'Lato', sans-serif;
   margin-top: 20px;
 }
-.banner{
+
+.modal{
+  margin: 0 auto;
+  top: 25%;
+  width: 85%;
+}
+
+/*Banner */
+
+#banner{
   margin-top: 115px;
 }
 .bannerimg{
@@ -29,4 +37,24 @@
   font-family: 'Lato', sans-serif;
   text-transform: uppercase;
   font-weight: 700;
+}
+
+/*HowTo*/
+i{
+  display: inline-block;
+  width: 100%
+}
+#howTo{
+  margin-top: 40px;
+
+}
+.fa{
+  font-size: 30px;
+
+}
+.steps{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+
 }

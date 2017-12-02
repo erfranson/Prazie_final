@@ -7,7 +7,7 @@ import {Grid, Row, Col, Clearfix} from 'react-bootstrap';
 const HomeBanner = () => {
 
   return (
-    <Grid className="banner">
+    <Grid id="banner">
       <Row className="imageRow">
         <Col xs={3}>
           <img src="./images/kids.jpg" className="bannerimg" />

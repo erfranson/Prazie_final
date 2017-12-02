@@ -1,3 +1,43 @@
+##Purpose
+
+Website/App to allow individuals to find and book photographers for various events including tourist photography.
+
+##Catagories
+
+Wedding
+Birthday
+Parties
+Vacation
+Family Portraits
+
+##Revenue
+
+prazie will collect a percentage of every booking from website or App
+Prices for photographers are up to the discretion of photographers
+all payments go through prazie
+ApplePay is necessary
+Get this app out early because there is a higher chance that Apple will feature us in an "ApplePay compatible" section of the App Store
+
+##Users/Photograhers
+
+There will be two categories of photographer
+
+amateur
+professional
+Users will be able to produce their own templates for individuals to use and easily book
+
+##Needs
+
+Website design
+open format for individuals to upload content
+secure payment system.
+App design
+similar to needs of full website
+Capital to higher individuals for design and website backend
+Marketing to increase numbers of photographer profiles in all major markets and tourist countries.
+“Better than a selfie anywhere in the World”
+"You're beautiful make sure your photos are too"
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -284,7 +324,7 @@ In the WebStorm menu `Run` select `Edit Configurations...`. Then click `+` and s
 
 Start your app by running `npm start`, then press `^D` on macOS or `F9` on Windows and Linux or click the green debug icon to start debugging in WebStorm.
 
-The same way you can debug your application in IntelliJ IDEA Ultimate, PhpStorm, PyCharm Pro, and RubyMine. 
+The same way you can debug your application in IntelliJ IDEA Ultimate, PhpStorm, PyCharm Pro, and RubyMine.
 
 ## Formatting Code Automatically
 
@@ -1822,7 +1862,7 @@ If you’re using [Apache HTTP Server](https://httpd.apache.org/), you need to c
     RewriteRule ^ index.html [QSA,L]
 ```
 
-It will get copied to the `build` folder when you run `npm run build`. 
+It will get copied to the `build` folder when you run `npm run build`.
 
 If you’re using [Apache Tomcat](http://tomcat.apache.org/), you need to follow [this Stack Overflow answer](https://stackoverflow.com/a/41249464/4878474).
 
@@ -2218,7 +2258,7 @@ To resolve this:
 1. Open an issue on the dependency's issue tracker and ask that the package be published pre-compiled.
   * Note: Create React App can consume both CommonJS and ES modules. For Node.js compatibility, it is recommended that the main entry point is CommonJS. However, they can optionally provide an ES module entry point with the `module` field in `package.json`. Note that **even if a library provides an ES Modules version, it should still precompile other ES6 features to ES5 if it intends to support older browsers**.
 
-2. Fork the package and publish a corrected version yourself. 
+2. Fork the package and publish a corrected version yourself.
 
 3. If the dependency is small enough, copy it to your `src/` folder and treat it as application code.
 
